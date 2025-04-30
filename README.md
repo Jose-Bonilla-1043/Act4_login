@@ -2,6 +2,9 @@
 
 A new Flutter project created with FlutLab - https://flutlab.io
 
+![image](https://github.com/user-attachments/assets/216938a3-db35-4021-a1f7-e0d4ece5766e)
+
+
 ## Getting Started
 
 A few resources to get you started if this is your first Flutter project:
